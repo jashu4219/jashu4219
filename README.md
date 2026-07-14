@@ -3,17 +3,20 @@
 </h1>
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast+;AWS+Cloud+Learner;Building+Real-World+Applications;Always+Learning+New+AI+Technologies+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast+;Cloud+&+DevOps+Enthusiast;Building+Real-World+Applications;Always+Learning+New+AI+Technologies+" alt="Typing SVG" /></a>
 <br><br>
 
 ---
 
-<b>
-🚀 Building scalable web applications and AI-powered solutions.<br>
-💻 Passionate about Full Stack Development, Machine Learning & Cloud Technologies.<br>
-🌱 Always learning. Always building.
-</b>
+<p align="center">
 
+🚀 Building scalable web applications and AI-powered solutions.
+
+💻 Passionate about Full Stack Development, Machine Learning & Cloud Technologies.
+
+🌱 Always learning. Always building.
+
+</p>
 </div>
 
 ---
@@ -22,9 +25,10 @@
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 🏫 SRM Institute of Science and Technology(7.84 CGPA)
-- 💻 Interested in Full Stack Development, Machine Learning, and Artificial Intelligence.
-- 🚀 Building real-world projects using Fullstack,Machine Learning and Genarative AI
+- 💻 Passionate about Full Stack Development, Machine Learning & Artificial Intelligence.
+- 🚀 Building real-world projects using Fullstack,Machine Learning,Genarative AI,Flask, React and Python.
 - ☁️ AWS Cloud Virtual Intern (AICTE–Eduskills) — EC2, S3, Lambda, IAM, CloudWatch
+- 🎯 Currently exploring Generative AI and modern web technologies.
 - 📫 Contact Email: Jaswanth4219@gmail.com
 
 ---

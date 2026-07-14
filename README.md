@@ -1,15 +1,22 @@
+<h1 align="center">
+  Hello 👋, I'm Yeruva Jaswanth Reddy
+</h1>
 
-<h1 align="center">Hello 🤝, This is Yeruva Jaswanth Reddy</h1>
+<div align="center">
 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;☁️+Cloud+%26+DevOps+Enthusiast;💡+Building+Scalable+Web+Applications;🌱+Always+Learning+New+Technologies" alt="Typing SVG"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast+;AWS+Cloud+Learner;Building+Real-World+Applications;Always+Learning+New+AI+Technologies+)](https://git.io/typing-svg)
+<br><br>
 
-<h3 align="center">
-🚀 Building scalable web applications and AI-powered solutions.
-💻 Passionate about Full Stack Development, Machine Learning, and Cloud Technologies.
+<b>
+🚀 Building scalable web applications and AI-powered solutions.<br>
+💻 Passionate about Full Stack Development, Machine Learning & Cloud Technologies.<br>
 🌱 Always learning. Always building.
-</h3>
+</b>
 
+</div>
 ---
 
 ## 👨‍💻 About Me

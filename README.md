@@ -31,10 +31,44 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,python,flask,mysql,git,github,vscode,aws,linux&perline=8" />
 </p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashu4219&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashu4219&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jashu4219&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashu4219&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jashu4219&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ---
 
-## 📫 Connect with Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-LinkedIn:https://www.linkedin.com/in/yeruva-jaswanth-reddy-587ba7298/
+<p align="center">
+  <a href="mailto:jaswanth4219@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-Email:Jaswanth4219@gmail.com
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://YOUR-PORTFOLIO.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>

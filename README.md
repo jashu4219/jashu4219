@@ -2,7 +2,11 @@
 <h1 align="center">Hello 🤝, This is Yeruva Jaswanth Reddy</h1>
 
 <h3 align="center">
-Passionate Software Engineer leveraging AI technologies, and continuously learning emerging tools with building modern web applications and solving real-world problems and creating user-centric digital experiences.
+🚀 Building scalable web applications and AI-powered solutions.
+
+💻 Passionate about Full Stack Development, Machine Learning, and Cloud Technologies.
+
+🌱 Always learning. Always building.
 </h3>
 
 ---
@@ -11,17 +15,14 @@ Passionate Software Engineer leveraging AI technologies, and continuously learni
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 🏫 SRM Institute of Science and Technology(7.84 CGPA)
-- 💻 Interested in Full Stack Development and Machine Learning
+- 💻 Interested in Full Stack Development, Machine Learning, and Artificial Intelligence.
 - 🚀 Building real-world projects using Fullstack,Machine Learning and Genarative AI
 - ☁️ AWS Cloud Virtual Intern (AICTE–Eduskills) — EC2, S3, Lambda, IAM, CloudWatch
 - 📫 Contact Email: Jaswanth4219@gmail.com
 
 ---
 
-## 🚀 Tech Stack
-
-HTML • CSS • JavaScript • Java • Python • Flask • React • MySQL • Machine-Learning • Git • GitHub 
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,flask,mysql,git,github,vscode" /> </p>
 ---
 
 ## 📫 Connect with Me

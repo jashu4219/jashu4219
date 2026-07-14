@@ -3,9 +3,7 @@
 
 <h3 align="center">
 🚀 Building scalable web applications and AI-powered solutions.
-
 💻 Passionate about Full Stack Development, Machine Learning, and Cloud Technologies.
-
 🌱 Always learning. Always building.
 </h3>
 

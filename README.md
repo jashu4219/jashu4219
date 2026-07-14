@@ -32,12 +32,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,python,flask,mysql,git,github,vscode,aws,linux&perline=8" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashu4219&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashu4219&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">

@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-
+---
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast+;AWS+Cloud+Learner;Building+Real-World+Applications;Always+Learning+New+AI+Technologies+" alt="Typing SVG" /></a>
 <br><br>
-
+---
 <b>
 🚀 Building scalable web applications and AI-powered solutions.<br>
 💻 Passionate about Full Stack Development, Machine Learning & Cloud Technologies.<br>
@@ -32,11 +32,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,python,flask,mysql,git,github,vscode,aws,linux&perline=8" />
 </p>
 
+---
+
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jashu4219&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 <h2 align="center">📈 Contribution Graph</h2>
 

@@ -1,6 +1,8 @@
 
 <h1 align="center">Hello 🤝, This is Yeruva Jaswanth Reddy</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer+;Machine+Learning+Enthusiast+;AWS+Cloud+Learner;Building+Real-World+Applications;Always+Learning+New+AI+Technologies+" alt="Typing SVG" /></a>
+
 <h3 align="center">
 🚀 Building scalable web applications and AI-powered solutions.
 💻 Passionate about Full Stack Development, Machine Learning, and Cloud Technologies.

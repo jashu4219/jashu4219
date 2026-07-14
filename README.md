@@ -26,8 +26,11 @@
 - 📫 Contact Email: Jaswanth4219@gmail.com
 
 ---
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,flask,mysql,git,github,vscode" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,python,flask,mysql,git,github,vscode,aws,linux&perline=8" />
+</p>
 ---
 
 ## 📫 Connect with Me

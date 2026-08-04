@@ -38,25 +38,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,java,python,flask,mysql,git,github,vscode,aws,linux&perline=8" />
 </p>
 
----
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jashu4219&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jashu4219&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jashu4219&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 ---
 
